@@ -1,0 +1,16 @@
+C:\Users\Rana\Desktop\Nahid\Simple CalculatorApp\Simple CalculatorApp\bin\Debug\Simple CalculatorApp.exe
+C:\Users\Rana\Desktop\Nahid\Simple CalculatorApp\Simple CalculatorApp\bin\Debug\Simple CalculatorApp.pdb
+C:\Users\Rana\Desktop\Nahid\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple_CalculatorApp.Form1.resources
+C:\Users\Rana\Desktop\Nahid\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple_CalculatorApp.Properties.Resources.resources
+C:\Users\Rana\Desktop\Nahid\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple CalculatorApp.csproj.GenerateResource.Cache
+C:\Users\Rana\Desktop\Nahid\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple CalculatorApp.exe
+C:\Users\Rana\Desktop\Nahid\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple CalculatorApp.pdb
+C:\Users\Rana\Desktop\Nahid\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple CalculatorApp.csprojResolveAssemblyReference.cache
+F:\My project\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple CalculatorApp.exe
+F:\My project\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple CalculatorApp.pdb
+F:\My project\Simple CalculatorApp\Simple CalculatorApp\bin\Debug\Simple CalculatorApp.exe
+F:\My project\Simple CalculatorApp\Simple CalculatorApp\bin\Debug\Simple CalculatorApp.pdb
+F:\My project\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple CalculatorApp.csprojResolveAssemblyReference.cache
+F:\My project\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple_CalculatorApp.Form1.resources
+F:\My project\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple_CalculatorApp.Properties.Resources.resources
+F:\My project\Simple CalculatorApp\Simple CalculatorApp\obj\x86\Debug\Simple CalculatorApp.csproj.GenerateResource.Cache
